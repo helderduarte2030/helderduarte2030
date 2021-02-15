@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @helderduarte2030
 - 👀 I'm currently a Python Developer
-- 🌱 I would like to be a Data Scientist
+- 🌱 I want to become a Data Scientist
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
