@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @helderduarte2030
-- 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Data Science
+- 👋 Hi, I'm @helderduarte2030
+- 👀 I'm currently a Python Developer
+- 🌱 I want to be a Data Scientist
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
