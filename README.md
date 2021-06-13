@@ -1,10 +1,8 @@
 
 - 👋 Hi, my name is Helder Duarte
-
 - 👀 I am currently a Python Developer
 - 🌱 Open to work as a Python Developer
 - 💞️ In Copenhagen Metropolitan Area
-
 - 📫 You can reach me on linkedin.com/in/helderduarte2030/
 
 <!---
