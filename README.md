@@ -1,9 +1,11 @@
-- 👋 Hi, I'm @helderduarte2030
-- 👀 I'm currently a Python Developer
-- 🌱 I want to become a Data Scientist
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, my name is Helder Duarte
+
+- 👀 I am currently a Python Developer
+- 🌱 Open to work as a Python Developer
+- 💞️ In Copenhagen Metropolitan Area
+
+- 📫 You can reach me on linkedin.com/in/helderduarte2030/
 
 <!---
 helderduarte2030/helderduarte2030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
