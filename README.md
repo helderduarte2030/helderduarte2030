@@ -1,8 +1,8 @@
 
 - 👀 Hi, my name is Helder Duarte
-- 👋 I'm currently a Political Scientist
+- 👋 I'm currently a Python Developer
 - 💞️ And I want to become a Data Scientist
-- 🌱 In Natal, Rio Grande do Norte, Brazil
+- 🌱 In Copenhagen, Capital Region, Denmark
 - 📫 You can reach me on linkedin.com/in/helderduarte2030/
 
 <!---
