@@ -1,7 +1,7 @@
 
-- 👀 Hi, my name is Helder Duarte
-- 👋 I'm currently a Python Developer
-- 💞️ And I want to become a Data Scientist
+- 👀 Hi, my name is Helder M. Duarte
+- 👋 I'm studying Social Data Science
+- 💞️ At the University of Copenhagen
 - 🌱 In Copenhagen, Capital Region, Denmark
 - 📫 You can reach me on linkedin.com/in/helderduarte2030/
 
