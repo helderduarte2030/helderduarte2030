@@ -1,7 +1,7 @@
 
 - 👀 Hi, my name is Helder M. Duarte
-- 👋 I'm studying Social Data Science
-- 💞️ At the University of Copenhagen
+- 👋 I'm an Associate in Data Analytics
+- 💞️ And an Associate in Python Programming
 - 🌱 In Copenhagen, Capital Region, Denmark
 - 📫 You can reach me on linkedin.com/in/helderduarte2030/
 
