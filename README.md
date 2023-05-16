@@ -1,8 +1,8 @@
 
 - 👀 Hi, my name is Helder M. Duarte
-- 👋 I'm an Associate in Data Analytics
-- 💞️ And an Associate in Python Programming
-- 🌱 In Copenhagen, Capital Region, Denmark
+- 👋 I'm a PCAP™ – Certified Associate in Python Programming
+- 💞️ And I have experience in Data Analytics with Python
+- 🌱 I currently live in Copenhagen, Hovedstaden, Denmark
 - 📫 You can reach me on linkedin.com/in/helderduarte2030/
 
 <!---
