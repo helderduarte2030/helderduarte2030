@@ -1,8 +1,8 @@
 
 - 👀 Hi, my name is Helder M. Duarte
-- 👋 I'm a PCAP™ – Certified Associate in Python Programming
-- 💞️ And I have experience in Data Analytics with Python
-- 🌱 I currently live in Copenhagen, Hovedstaden, Denmark
+- 👋 I am doing a Data Science bootcamp at Le Wagon
+- 💞️ And I have experience with Data Analysis and Python
+- 🌱 I am currently located in in Porto, Portugal
 - 📫 You can reach me on linkedin.com/in/helderduarte2030/
 
 <!---
