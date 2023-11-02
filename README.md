@@ -2,7 +2,7 @@
 - 👀 Hi, my name is Helder M. Duarte
 - 👋 I am doing a Data Science bootcamp at Le Wagon
 - 💞️ And I have experience with Data Analysis and Python
-- 🌱 I am currently located in in Porto, Portugal
+- 🌱 I am currently located in Porto, Portugal
 - 📫 You can reach me on linkedin.com/in/helderduarte2030/
 
 <!---
