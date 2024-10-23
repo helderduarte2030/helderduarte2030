@@ -1,7 +1,7 @@
 
 - 👀 Oi, meu nome é Helder M. Duarte
-- 👋 Eu sou um Assessor de Investimento
-- 💞️ Mas também sou um Cientista de Dados
+- 👋 Eu trabalho como Assessor de Investimento
+- 💞️ Mas tenho uma paixão pela Ciência de Dados
 - 🌱 Estou morando em Natal, Rio Grande do Norte
 - 📫 Meu perfil do LinkedIn é linkedin.com/in/helderduarte2030/
 
