@@ -1,8 +1,8 @@
 
-- 👀 Hi, my name is Helder M. Duarte
+- 👀 Hello, my name is Helder
 - 👋 I am an Entry-Level Data Scientist
 - 💞️ On my way to be a Mid-Level Data Scientist
-- 🌱 I live in Brazil, but I can also work remotely
+- 🌱 I currently live in Brazil, but I can also work remotely
 - 📫 My LinkedIn profile is linkedin.com/in/helderduarte2030/
 
 <!---
